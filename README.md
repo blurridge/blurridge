@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zach Riane Machacon</h1>
-<h3 align="center">An aspiring data scientist, and machine learning enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Zach Riane Machacon</h1>
+<h3 align="left">An aspiring Data Scientist, and Machine Learning enthusiast</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Machine Learning**
 
