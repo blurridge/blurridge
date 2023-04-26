@@ -2,11 +2,11 @@
 <h3 align="center">An aspiring Data Scientist, and Machine Learning enthusiast</h3>
 
 # ✨ About Me:
-- 🌱 I’m currently learning **Python, SQL, Data Science, Machine Learning**
+- 🌱 I’m currently learning **Python, Machine Learning, React, Next.js**
 
-- 👯 I’m looking to collaborate on **projects related to Data Analytics and Data Science**
+- 👯 I’m looking to collaborate on **projects related to Machine Learning and Web Development**
 
-- 🙏 I'm looking for help concerning **Project Creation in Data Science, and Machine Learning**
+- 🙏 I'm looking for help concerning **Project Creation in Machine Learning**
 
 - 📫 How to reach me **zachriane01@gmail.com**
 
