@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data Scientist, and Machine Learning enthusiast</h3>
 
 # ✨ About Me:
-- 🌱 I’m currently learning **Python, Machine Learning, React, Next.js**
+- 🌱 I’m currently learning **Python, Machine Learning, React, Django**
 
 - 👯 I’m looking to collaborate on **projects related to Machine Learning and Web Development**
 
