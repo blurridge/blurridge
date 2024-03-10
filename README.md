@@ -2,9 +2,9 @@
 <h3 align="center">An aspiring Machine Learning Engineer, and Web Dev Hobbyist</h3>
 
 # ✨ About Me:
-- 🌱 I’m currently learning **Python, Machine Learning, React, Django**
+- 🌱 I’m currently learning **Python, Deep Learning, NLP, Linguistics**
 
-- 👯 I’m looking to collaborate on **projects related to Machine Learning and Web Development**
+- 👯 I’m looking to collaborate on **projects related to Neural Networks**
 
 - 🙏 I'm looking for help concerning **Project Creation in Machine Learning**
 
