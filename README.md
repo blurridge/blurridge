@@ -20,6 +20,9 @@ class ZachRiane:
 me = ZachRiane()
 me.say_hi()
 ```
+<div align="center">
+  <i>"Excellence as a goal is nothing but excellence as a habit is everything."</i>
+</div>
 
 ## 🛠️ Tools
 
