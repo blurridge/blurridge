@@ -1,4 +1,4 @@
-# <div align="center">💫 Zach Riane Machacon</div>
+# <div align="center">💫 Yoooo! I'm Zach Riane Machacon! 💫</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=435&lines=;Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
