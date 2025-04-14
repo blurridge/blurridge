@@ -86,10 +86,11 @@ me.say_hi()
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ## 🏆 Certifications
-![Google Cloud Certified - Professional Machine Learning Engineer](https://img.shields.io/badge/GCP_Certified_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-- **GCP Professional Machine Learning Engineer**
-  - Credential ID: eccf2be49baf455183af4ea01abc21a8
-  - [Verify Credential](https://www.credly.com/badges/aee10280-c1e6-4225-ac5e-e99e02fc6d61/public_url)
+<p>
+  <a href="https://www.credly.com/badges/aee10280-c1e6-4225-ac5e-e99e02fc6d61/public_url">
+    <img src="https://img.shields.io/badge/Google_Cloud-Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Professional ML Engineer"/>
+  </a>
+</p>
 
 ## 📈 GitHub Analytics
 
