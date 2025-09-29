@@ -52,6 +52,7 @@ me.say_hi()
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
@@ -91,6 +92,9 @@ me.say_hi()
 <p>
   <a href="https://www.credly.com/badges/aee10280-c1e6-4225-ac5e-e99e02fc6d61/public_url">
     <img src="https://img.shields.io/badge/Google_Cloud-Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Professional ML Engineer"/>
+  </a>
+  <a href="https://www.credly.com/badges/5fc1193c-5fb1-4574-a36a-4bbd7b5be6ad/public_url">
+    <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Professional Cloud Architect"/>
   </a>
 </p>
 
