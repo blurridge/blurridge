@@ -96,17 +96,9 @@ me.say_hi()
   <a href="https://www.credly.com/badges/5fc1193c-5fb1-4574-a36a-4bbd7b5be6ad/public_url">
     <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Professional Cloud Architect"/>
   </a>
-</p>
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blurridge&count_private=true&theme=tokyonight&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blurridge&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blurridge&theme=tokyonight&hide_border=false&count_private=true"/>
+  <a href="https://www.credly.com/badges/48a60f95-8ba3-466c-9a6a-efc58c8f6171/public_url">
+    <img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Professional Data Engineer"/>
+  </a>
 </p>
 
 ## 🤝 Connect With Me
