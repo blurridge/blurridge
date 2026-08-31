@@ -9,7 +9,7 @@
 class ZachRiane:
     def __init__(self):
         self.name = "Zach Riane Machacon"
-        self.role = "Software Engineer @ Symph"
+        self.role = "Senior Software Engineer @ DTN"
         self.focus = ["Full Stack Development", "Machine Learning"]
         self.email = "zachriane01@gmail.com"
         self.linkedin = "zachriane"
